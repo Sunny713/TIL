@@ -96,6 +96,7 @@
 <br>
 
 ### 5. 코드(Code) 삽입
+---
 `<pre>`, `<code>`로 변환된다. <br>
 `"```"` 로 삽입할 수 있다.
 ```
@@ -107,3 +108,57 @@
 <br>
 
 ### 6. 링크(Links)
+---
+1. 참조링크 
+
+```
+[link keword][id]
+
+[id] : URL
+
+// example
+link : [google][googlelink]
+[googlelink]: https://google.com "Go google"
+```
+link : [Google][googlelink] 
+
+[googlelink]: https://google.com "Go google"
+
+<br>
+
+2. 외부링크
+
+```
+사용문법 : [Title](link)
+적용예 : [Google](https://google.com,"google link")
+```
+
+link : [Google](https://google.com, "google link")
+
+<br>
+
+3. 자동연결
+```
+일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성한다.
+
+* 외부링크: <http://example.com/>
+* 이메일링크: <address@example.com>
+```
+* 외부링크: <http://example.com/>
+* 이메일링크: <address@example.com>
+
+<br>
+
+### 7. 이미지
+---
+```
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
+```
+
+사이즈 조절은 없기에 `<img width="" height""></img>`를 이용한다.
+
+```
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+```
