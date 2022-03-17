@@ -17,7 +17,7 @@ vsc로 기록. 미리보기를 볼 때 ctrl+k v를 쓰기 <br> <br>
 
 ### :: JavaScript
 ---
-- C##
+- C#
 - Java
 - JavaScript
 - Python
