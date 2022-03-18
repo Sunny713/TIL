@@ -6,8 +6,8 @@ vsc로 기록. 미리보기를 볼 때 ctrl+k v를 쓰기 <br> <br>
 
 ### :: DAILY RECORD
 ---
-- [21년 09월](https://github.com/Sunny713/TIL/blob/main/21_09.md)
-- [22년 03월](https://github.com/Sunny713/TIL/blob/main/22_03.md)
+- [21년 09월](https://github.com/Sunny713/TIL/blob/main/Daily_Record/21_09.md)
+- [22년 03월](https://github.com/Sunny713/TIL/blob/main/Daily_Record/22_03.md)
 
 <br>
 
@@ -35,4 +35,4 @@ vsc로 기록. 미리보기를 볼 때 ctrl+k v를 쓰기 <br> <br>
 ### :: ECT
 ---
 - [Markdown](https://github.com/Sunny713/TIL/blob/main/Markdown.md)
-- [git](https://github.com/Sunny713/TIL/blob/main/git.md)
+- [git](https://github.com/Sunny713/TIL/blob/main/Git/git.md)
