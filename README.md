@@ -25,7 +25,7 @@ vsc로 기록. 미리보기를 볼 때 ctrl+k v를 쓰기 <br> <br>
 
 <br>
 
-### :: [📖]((https://github.com/Sunny713/TIL/blob/main/ReadBook/READBOOK.md)
+### :: [📖](https://github.com/Sunny713/TIL/blob/main/ReadBook/READBOOK.md)
 ---
 - [쓰기의 공식 PREP](https://github.com/Sunny713/TIL/blob/main/ReadBook/READBOOK.md)
 
